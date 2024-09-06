@@ -15,7 +15,7 @@
 
     <body class="font-sans antialiased">
         <div class="h-4 bg-gradient-to-b from-blue-50 to-transparent"></div>
-            <div class="min-h-screen max-w-[98rem] m-auto bg-slat-100">
+            <div class="min-h-screen lg:max-w-[60rem] xl:max-w-[76rem] 2xl:max-w-[98rem]  m-auto bg-slat-100">
 
 
 
