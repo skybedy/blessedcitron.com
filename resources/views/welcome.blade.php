@@ -16,9 +16,6 @@
     <body class="font-sans antialiased">
         <div class="h-4 bg-gradient-to-b from-blue-50 to-transparent"></div>
             <div class="min-h-screen lg:max-w-[60rem] xl:max-w-[76rem] 2xl:max-w-[98rem]  m-auto bg-slat-100">
-
-
-
                 <nav class="bg-whit flex justify-between h-24">
                     <!-- left side -->
                     <div class="flex items-center">
@@ -64,7 +61,7 @@
                     </div>
                 </nav>
 
-                <div class="relative borde border-re-800 pb-14">
+                <div class="relative mb-20">
                     <img class="w-full h-auto" src="obrazek.webp" />
                     <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-center">
                         <div class="text-5xl font-sans font-black text-white scale-y-125 mb-5">FREE & ACCESSIBLE</div>
@@ -76,6 +73,29 @@
                         <a href="#" class="inline-block bg-blue-600 text-xl text-white py-6 px-10">Donate</a>
                     </div>
                 </div>
+
+
+                <section class="py-16 flex">
+                    <div class="relative mr-8">
+                        <img class="w-full h-auto" src="img1.webp" />
+                        <div class="absolute bottom-6 left-0 bg-white font-sans text-blue-800 max-w-[16rem] border-y-4 border-blue-600  py-10 px-11">
+                            <h2 class="font-black text-2xl scale-y-150 mb-10">Our Initiatives</h2>
+                            <p class="text-sm mb-12">I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.</p>
+                            <p class="font-black text-sm scale-y-150">Read More</p>
+                        </div>
+                    </div>
+                    <div class="relative">
+                        <img class="w-full h-auto" src="img2.webp" />
+                        <div class="absolute -top-16 left-24 bg-white font-sans text-blue-800 max-w-[16rem] border-y-4 border-blue-600  py-10 px-11">
+                            <h2 class="font-black text-2xl scale-y-150 mb-10">Our Mission</h2>
+                            <p class="text-sm mb-12">I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.</p>
+                            <p class="font-black text-sm scale-y-150">Read More</p>
+                        </div>
+                    </div>
+
+
+
+                </section>
 
 
 
