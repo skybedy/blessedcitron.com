@@ -92,9 +92,25 @@
                             <p class="font-black text-sm scale-y-150">Read More</p>
                         </div>
                     </div>
+                </section>
 
-
-
+                <section class="flex">
+                    <div class="relative mr-8">
+                        <img class="w-full h-auto" src="img3.webp" />
+                        <div class="absolute bottom-6 right-28 bg-white font-sans text-blue-800 max-w-[16rem] border-y-4 border-blue-600  py-10 px-11">
+                            <h2 class="font-black text-2xl scale-y-150 mb-10">Recent News</h2>
+                            <p class="text-sm mb-12">I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.</p>
+                            <p class="font-black text-sm scale-y-150">Read More</p>
+                        </div>
+                    </div>
+                    <div class="relative">
+                        <img class="w-full h-auto" src="img4.webp" />
+                        <div class="absolute -top-20 right-24 bg-white font-sans text-blue-800 max-w-[16rem] border-y-4 border-blue-600  py-10 px-11">
+                            <h2 class="font-black text-2xl scale-y-150 mb-10">Take Part</h2>
+                            <p class="text-sm mb-12">I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.</p>
+                            <p class="font-black text-sm scale-y-150">Read More</p>
+                        </div>
+                    </div>
                 </section>
 
 
